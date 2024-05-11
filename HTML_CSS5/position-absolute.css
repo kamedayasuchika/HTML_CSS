@@ -1,0 +1,26 @@
+.parent{
+    height: 400px;
+    background-color: lightcyan;
+    position: relative;
+}
+
+#one{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+}
+
+#two{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
+
+#three{
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    position: absolute;
+    top: 50px;
+    right: 50px;
+}

@@ -1,0 +1,16 @@
+#one{
+    padding: 100px;
+    background-color: yellow;
+}
+
+#two{
+    margin: 100px;
+    background-color: orange;
+}
+
+#three{
+    padding: 50px;
+    margin: 50px;
+    background-color: pink;
+}
+   
